@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+ï»¿using Microsoft.AspNetCore.Mvc;
 
 namespace test.Controllers
 {
@@ -29,20 +29,6 @@ namespace test.Controllers
             })
             .ToArray();
         }
-       ákdfjasdjf
-            a
-            sf
-            a
-            sdf
-            á
-            df
-            ads
-            f
-            ádasdf
-            ád
-            fa
-            sf
-            a
-            sdf
+yáº¿n yÃªu chim
 
 }
